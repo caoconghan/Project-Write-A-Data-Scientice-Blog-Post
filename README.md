@@ -1,6 +1,3 @@
-Table of Contents
-<!-- TOC -->autoauto- [Installation](#installation)auto- [Project Motivation](#project-motivation)auto- [File Descriptions](#file-descriptions)auto- [Results](#results)auto- [Licensing, Authors, and Aknowledgements](#licensing-authors-and-aknowledgements)autoauto<!-- /TOC -->
-
 # Installation
 No need to install additional libraries other than Python integrated in Anaconada.The code should run using Python 3.* .
 # Project Motivation
